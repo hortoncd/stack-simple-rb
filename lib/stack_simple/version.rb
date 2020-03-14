@@ -1,4 +1,4 @@
-# Copyright 2016 Chris Horton
+# Copyright 2016 - 2020 Chris Horton
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,5 +13,5 @@
 # limitations under the License.
 
 module StackSimple
-  VERSION = "0.1.0"
+  VERSION = "0.1.1"
 end
